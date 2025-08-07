@@ -1,0 +1,112 @@
+{
+  "data": {
+    "users": {
+      "923497153334@s.whatsapp.net": {
+        "premiumExpiry": 0
+      },
+      "923359111437@s.whatsapp.net": {
+        "premiumExpiry": 0
+      },
+      "224348120027381@lid": {
+        "premiumExpiry": 0
+      },
+      "214276069396675@lid": {
+        "premiumExpiry": 0
+      },
+      "164398630969556@lid": {
+        "premiumExpiry": 0
+      },
+      "29949461303548@lid": {
+        "premiumExpiry": 0
+      },
+      "21423380795486@lid": {
+        "premiumExpiry": 0
+      },
+      "132353896783954@lid": {
+        "premiumExpiry": 0
+      },
+      "923273725466@s.whatsapp.net": {
+        "premiumExpiry": 0
+      },
+      "120363317341464212@newsletter": {
+        "premiumExpiry": 0
+      },
+      "27354898374845@lid": {
+        "premiumExpiry": 0
+      },
+      "923325243060@s.whatsapp.net": {
+        "premiumExpiry": 0
+      },
+      "85706156335357@lid": {
+        "premiumExpiry": 0
+      },
+      "98067072168111@lid": {
+        "premiumExpiry": 0
+      },
+      "126001472356408@lid": {
+        "premiumExpiry": 0
+      },
+      "188033836028034@lid": {
+        "premiumExpiry": 0
+      },
+      "916205556826@s.whatsapp.net": {
+        "premiumExpiry": 0
+      },
+      "923376766706@s.whatsapp.net": {
+        "premiumExpiry": 1754382840784
+      },
+      "923176851874@s.whatsapp.net": {
+        "premiumExpiry": 1767225600000
+      },
+      "923701629234@s.whatsapp.net": {
+        "premiumExpiry": 0
+      },
+      "923366423334@s.whatsapp.net": {
+        "premiumExpiry": 0
+      },
+      "120363313264102208@newsletter": {
+        "premiumExpiry": 0
+      },
+      "923263880733@s.whatsapp.net": {
+        "premiumExpiry": 0
+      },
+      "923322728775@s.whatsapp.net": {
+        "premiumExpiry": 0
+      },
+      "923466504456@s.whatsapp.net": {
+        "premiumExpiry": 0
+      },
+      "923487124042@s.whatsapp.net": {
+        "premiumExpiry": 0
+      },
+      "923059727026@s.whatsapp.net": {
+        "premiumExpiry": 0
+      },
+      "923344372700@s.whatsapp.net": {
+        "premiumExpiry": 0
+      },
+      "923171396781@s.whatsapp.net": {
+        "premiumExpiry": 0
+      },
+      "120363304774001102@newsletter": {
+        "premiumExpiry": 0
+      }
+    },
+    "settings": {
+      "923497153334@s.whatsapp.net": {
+        "antiswview": false
+      },
+      "923376766706@s.whatsapp.net": {
+        "antiswview": false
+      },
+      "923176851874@s.whatsapp.net": {
+        "antiswview": true
+      }
+    },
+    "owners": [
+      "923376766706",
+      "923176851874",
+      "923497153334"
+    ]
+  }
+}

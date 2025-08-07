@@ -1,0 +1,16 @@
+[04-08-2025 11:26:15] [32mINFO[39m: [36m🔗 Connecting to WhatsApp...[39m
+[04-08-2025 11:26:15] [31mERROR[39m: [36m🚨 Critical error: Error: Cannot find module './database/auth.json'
+Require stack:
+- C:\Users\GSM\Desktop\BOT CONFIGURE\New folder\RSPV18\RSPV18\botController.js[39m
+[04-08-2025 11:27:00] [32mINFO[39m: [36m🔗 Connecting to WhatsApp...[39m
+[04-08-2025 11:27:00] [31mERROR[39m: [36m🚨 Critical error: Error: Cannot find module './database/auth.json'
+Require stack:
+- C:\Users\GSM\Desktop\BOT CONFIGURE\New folder\RSPV18\RSPV18\botController.js[39m
+[04-08-2025 11:28:01] [32mINFO[39m: [36m🔗 Connecting to WhatsApp...[39m
+[04-08-2025 11:28:01] [31mERROR[39m: [36m🚨 Critical error: Error: Cannot find module './database/auth.json'
+Require stack:
+- C:\Users\GSM\Desktop\BOT CONFIGURE\New folder\RSPV18\RSPV18\botController.js[39m
+[04-08-2025 15:06:27] [32mINFO[39m: [36m🔗 Connecting to WhatsApp...[39m
+[04-08-2025 15:06:27] [31mERROR[39m: [36m🚨 Critical error: Error: Cannot find module './database/auth.json'
+Require stack:
+- C:\Users\GSM\Desktop\BOT CONFIGURE\New folder\RSPV18\RSPV18\botController.js[39m
